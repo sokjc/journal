@@ -4,4 +4,4 @@ A weekly publication for those trying to master the arts of data science and mac
 
 Title | Author | Topic
 --- | --- | ---
-(GraphTheoryIntro)[/GraphTheoryIntro] | Sofiyan Sheikh | Network Analysis
+[GraphTheoryIntro](/GraphTheoryIntro) | Sofiyan Sheikh | Network Analysis
